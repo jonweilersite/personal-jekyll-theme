@@ -6,6 +6,8 @@ category: Veteran
 tags: [ 'Veteran, Post Traumatic Stress' ]
 ---
 
+![Honor Veterans](/img/articles/vet.jpg)
+
 Veterans Day is a big day for Veterans, whether we want to acknowledge it or not.  Yesterday I attended a great Veterans Day tribute put on by our local public school and American Legion.  I am very proud to be part of a small, Upper Midwestern community.  Ceremonies like that always bring up emotions that I am unprepared for, but it does the same for most Combat Veterans.  I am thankful for the type of people who live here, very supportive.
 
 
