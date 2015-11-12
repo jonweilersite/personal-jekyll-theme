@@ -13,7 +13,7 @@ Veterans Day is a big day for Veterans, whether we want to acknowledge it or not
 
 I watched this video last night, it was in my FB newsfeed from a friend that I served with.  I have lost friends to suicide and I will say to lose a friend in a Combat Zone is much different than losing a friend to themselves.  Isolation is a very dangerous thing for Combat Related Post Traumatic Stress and this is both physical and emotional isolation. 
  
-To relate PTS with violence to others is very poor perception and will drive the Veteran away.  Many families have become broken because of this.  A Combat Veteran has a much, much higher tendency to react violently against themselves than they do to others.  Keep this in mind when you are interacting with your sister, brother, neighbor, etc…  
+To relate PTS with violence to others is very poor perception.  It will drive the Veteran away.  Many families have become broken because of this.  A Combat Veteran has a much, much higher tendency to react violently against themselves than they do to others.  Keep this in mind when you are interacting with your sister, brother, neighbor, etc…  
 
 This struggle in the video is very real and happens in silence.  We are losing our youth and it needs to stop.
 
