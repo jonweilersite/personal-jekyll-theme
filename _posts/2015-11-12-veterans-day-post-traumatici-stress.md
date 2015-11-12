@@ -17,4 +17,4 @@ To relate PTS with violence to others is very poor perception.  It will drive th
 
 This struggle in the video is very real and happens in silence.  We are losing our youth and it needs to stop.
 
-[Gallent Few](https://gallantfew.org/)
+Click here to learn more about [Gallent Few](https://gallantfew.org/)
