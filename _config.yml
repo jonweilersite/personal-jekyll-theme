@@ -10,7 +10,7 @@ url: "http://jonweiler.com"
 
 baseurl: ""
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-70039434-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 
@@ -49,7 +49,7 @@ delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "The mind quits long before the body."
   - text: "See possibile impossibilities."
-  - text: "I can. And I will."
+  - text: "I can.  I will."
   - text: "Lead by Example."
 
 ########
