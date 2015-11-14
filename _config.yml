@@ -10,18 +10,23 @@ url: "http://jonweiler.com"
 
 baseurl: ""
 
+# Google tracking id to track your visitors
+
 google-tracking-id: "UA-70039434-1"
 
 # Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
 
-force-https: false
+force-https: False
+
+# Sections shown in the index page
 
 pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
-
 
 #############
 # HTML Head #
@@ -32,7 +37,7 @@ lang: "en"
 title: "Jon Weiler"
 favicon: "/img/favicon.ico"
 description: "Blog and website of Jon Weiler, former U.S. Army Sniper, combat veteran with the 82nd Airborne Division, Firearm Instructor, Extreme Long Range Shooter, Adventure Race Organizer, Veteran Advocate, Husband and Father"
-keywords: "Jon Weiler, precision shooting, sniper, professional marksmen inc., training, firearms, fitness, survival trial,"
+keywords: "Blog and website of Jon Weiler, former U.S. Army Sniper, combat veteran with the 82nd Airborne Division, Firearm Instructor, Extreme Long Range Shooter, Adventure Race Organizer, Veteran Advocate, Husband and Father"
 
 ################
 # Intro layout #
