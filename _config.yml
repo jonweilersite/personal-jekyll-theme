@@ -8,11 +8,11 @@ url: "jonweiler.com"
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: ""
+baseurl: "/"
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-70039434-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -31,6 +31,39 @@ pages_list:
 #############
 # HTML Head #
 #############
+
+ private void LoadMetaTagsForFacebook()
+{
+    HtmlMeta meta = new HtmlMeta();
+    meta.Attributes.Add("name", "fb:app_id");
+    meta.Attributes.Add("content", "");
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("name", "og:url");
+    meta.Attributes.Add("content", Request.Url.ToString());
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("name", "og:site_name");
+    meta.Attributes.Add("content", "Site.com");
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("name", "og:title");
+    meta.Attributes.Add("content", this._product.Name);
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("name", "og:image");
+    meta.Attributes.Add("content", this._product.ImagePath);
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("name", "og:type");
+    meta.Attributes.Add("content", "drink");
+    Page.Header.Controls.Add(meta);
+}
 
 author: "Jon Weiler"
 lang: "en"

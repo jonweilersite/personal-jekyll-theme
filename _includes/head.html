@@ -1,38 +1,6 @@
 
 <!-- HEAD Start --><head>
-  private void LoadMetaTagsForFacebook()
-{
-    HtmlMeta meta = new HtmlMeta();
-    meta.Attributes.Add("name", "fb:app_id");
-    meta.Attributes.Add("content", "");
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("name", "og:url");
-    meta.Attributes.Add("content", Request.Url.ToString());
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("name", "og:site_name");
-    meta.Attributes.Add("content", "Site.com");
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("name", "og:title");
-    meta.Attributes.Add("content", this._product.Name);
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("name", "og:image");
-    meta.Attributes.Add("content", this._product.ImagePath);
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("name", "og:type");
-    meta.Attributes.Add("content", "drink");
-    Page.Header.Controls.Add(meta);
-}
-
+ 
   {% if site.force-https %}
     <script>
     // Don't force http when serving the website locally
