@@ -1,6 +1,37 @@
 
 <!-- HEAD Start --><head>
+  private void LoadMetaTagsForFacebook()
+{
+    HtmlMeta meta = new HtmlMeta();
+    meta.Attributes.Add("property", "fb:app_id");
+    meta.Attributes.Add("content", "");
+    Page.Header.Controls.Add(meta);
 
+    meta = new HtmlMeta();
+    meta.Attributes.Add("property", "og:url");
+    meta.Attributes.Add("content", Request.Url.ToString());
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("property", "og:site_name");
+    meta.Attributes.Add("content", "Site.com");
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("property", "og:title");
+    meta.Attributes.Add("content", this._product.Name);
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("property", "og:image");
+    meta.Attributes.Add("content", this._product.ImagePath);
+    Page.Header.Controls.Add(meta);
+
+    meta = new HtmlMeta();
+    meta.Attributes.Add("property", "og:type");
+    meta.Attributes.Add("content", "drink");
+    Page.Header.Controls.Add(meta);
+}
 
   {% if site.force-https %}
     <script>
@@ -46,38 +77,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}{{ site.favicon }}">
   {% endif %}
   
-  private void LoadMetaTagsForFacebook()
-{
-    HtmlMeta meta = new HtmlMeta();
-    meta.Attributes.Add("property", "fb:app_id");
-    meta.Attributes.Add("content", "");
-    Page.Header.Controls.Add(meta);
 
-    meta = new HtmlMeta();
-    meta.Attributes.Add("property", "og:url");
-    meta.Attributes.Add("content", Request.Url.ToString());
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("property", "og:site_name");
-    meta.Attributes.Add("content", "Site.com");
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("property", "og:title");
-    meta.Attributes.Add("content", this._product.Name);
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("property", "og:image");
-    meta.Attributes.Add("content", this._product.ImagePath);
-    Page.Header.Controls.Add(meta);
-
-    meta = new HtmlMeta();
-    meta.Attributes.Add("property", "og:type");
-    meta.Attributes.Add("content", "drink");
-    Page.Header.Controls.Add(meta);
-}
 </head>
 
 <!-- HEAD End -->
