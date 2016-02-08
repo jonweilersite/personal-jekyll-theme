@@ -73,14 +73,16 @@ post-preview-words: 96
 
 paginate: 5
 
+email-share: True
 fb-share: True
 twitter-share: True
+linkedin-share: True
 reddit-share: True
 google-plus-share: True
-linkedin-share: True
+tumblr-share: True
 pinterest-share: True
-vkontakte-share: false
-disqus-shortname: "jonweiler"
+pocket-share: Falst
+vkontakte-share: False
 
 ###############
 # Life Events #
