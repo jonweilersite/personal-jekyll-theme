@@ -3,36 +3,35 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "jonweiler.com"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: ""
+
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-70039434-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Jon Weiler"
+title: "Jon Weiler"
+description: "Blog and website of Jon Weiler, former U.S. Army Sniper, combat veteran with the 82nd Airborne Division, Firearm Instructor, Extreme Long Range Shooter, Adventure Race Organizer, Veteran Advocate, Husband and Father"
+keywords: "Blog and website of Jon Weiler, former U.S. Army Sniper, combat veteran with the 82nd Airborne Division, Firearm Instructor, Extreme Long Range Shooter, Adventure Race Organizer, Veteran Advocate, Husband and Father"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -55,9 +54,12 @@ loop-count: False # Set False for infinite loop, or set any number for finite lo
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+lines:			# You can add HTML Tags in the Text
+  - text: "The mind quits long before the body."
+  - text: "See possibile impossibilities."
+  - text: "I can.  I will."
+  - text: "Lead by Example."
+
 
 me-img: "/img/jetpacktocat.png"
 
@@ -104,14 +106,53 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-
-# First image of the Timeline
+  - image: "/img/career/st.png"
+    date: "November 2, 2015"
+    description: "Survival Trial goes into 5th year of adventure races"
+  - image: "/img/career/wu.png"
+    date: "November 2, 2015"
+    description: "Whittington U Schedules 5th year of Courses"
+  - image: "/img/career/pmi.png"
+    date: "September 2015"
+    description: "PMI begins Mobile Training Course initiative"
+  - image: "/img/career/wu.png"
+    date: "2012-2013"
+    description: "Range Construction and Writing Curriculum"
+  - image: "/img/career/wr.png"
+    date: "2012"
+    description: "Created the Warrior Rendezvous"
+  - image: "/img/career/wu.png"
+    date: "2011"
+    description: "Began building the Whittington U"
+  - image: "/img/career/st.png"
+    date: "September 11, 2011"
+    description: "Pioneered concept of Survival Trial"
+  - image: "/img/career/hi.png"
+    date: "2010"
+    description: "Featured on Sniper Bulletproof (History)"	
+  - image: "/img/career/hi.png"
+    date: "2009"
+    description: "Featured on High Impact M16 (History)"
+  - image: "/img/career/pmi.png"
+    date: "2008"
+    description: "Build Training Facility in SD (failed)"
+  - image: "/img/career/pmi.png"
+    date: "September 11, 2007"
+    description: "Incorporate Professional Marksmen Inc."
+  - image: "/img/career/di.png"
+    date: "2006"
+    description: "Featured on Futureweapons - 2nd episode (Discovery)"
+  - image: "/img/career/di.png"
+    date: "2005"
+    description: "Featured on Futureweapons (Discovery)"
+  - image: "/img/career/50.png"
+    date: "December, 2004"
+    description: "Training Manager: Barrett Firearms Manufacturing, Inc."	
+  - image: "/img/career/82.png"
+    date: "February 14, 2003"
+    description: "Deploy for OIF I"			
+# First image of the Career timeline
+career-img: "/img/career/default.png"
 
 timeline-img: "/img/timeline/default.png"
 
@@ -119,7 +160,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "jonw@survivaltrial.com"
 
 ##################
 # Social Buttons #
@@ -127,15 +168,16 @@ email: "your@email.here"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/jon.weiler"
   - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://twitter.com/weilerjon"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UC7JvS06KFwBGFnrkjp_QKew"
+  - title: "instagram"
+    url: "https://instagram.com/jon_weiler"
   - title: "rss"
     url: "/feed.xml"
+
 
 ############
 # 404 page #
