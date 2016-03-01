@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Survival Trial: A Warrior's Rendezvous
+title: A Warrior's Rendezvous
 category: Survival Trial
 tags: [ 'Veteran, Travel, Survival Trial' ]
 ---
