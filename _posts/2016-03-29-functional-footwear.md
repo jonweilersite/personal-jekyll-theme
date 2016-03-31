@@ -8,7 +8,7 @@ tags: [ 'Review, Equipment, Survival Trial' ]
 
 ![Functional Footwear](/img/articles/March/ff1.jpg)
 
-#Functional Footwear
+# Functional Footwear
 
 Footwear is one of the more important investments with any type of physical activity.  I have several pieces of footwear with very specific purposes and intentions.  I personally train for strength and endurance. I live in the flat Prairie of the Upper Midwest and work in the higher elevations of Norther New Mexico.  I have the opportunity to move from 1700 feet about sea level to 7800 feet with consistency.  This allows me to train hard at elevation and continue at home base.  It is a nice rotation for my body.
 
@@ -18,7 +18,7 @@ Here is a quick account of what I have with me now, in both a daily wear and tes
 
 ![Solomon XA Pro 3D Ultra 2](/img/articles/March/ff2.jpg)
 
-##1. [Solomon XA Pro 3D Ultra 2 Trail Running Shoe](https://www.rei.com/product/807599/salomon-xa-pro-3d-ultra-2-trail-running-shoes-mens)
+## 1. [Solomon XA Pro 3D Ultra 2 Trail Running Shoe](https://www.rei.com/product/807599/salomon-xa-pro-3d-ultra-2-trail-running-shoes-mens)
 
 This is my go-to shoe for everything that I do.  It does not matter if I am driving cross-country, running a 10K or walking to the post office, I wear these the most.  I am a firm believer in a state of constant readiness.  To me, this means being prepared to defend myself and/or others around me regardless of where I am or what I am doing.  I also live by a 3-Step Resolution of the Threat.
 
@@ -34,7 +34,7 @@ So far I am over a year of constant use with no failure with these shoes.  I hav
 
 ![Lowa Trekker](/img/articles/March/ff3.jpg)
 
-##2. [Lowa Trekker:](https://www.lowaboots.com/mens/trekking/trekker?color=Dark%20Brown)
+## 2. [Lowa Trekker:](https://www.lowaboots.com/mens/trekking/trekker?color=Dark%20Brown)
 
 I have had these boots for almost 3 years and worn them extensively in the San de Cristo Mountains at the foothills of the Rockies.  The reason I purchased these in the first place were to replace a pair of Danner Combat Hikers that fell apart on me in about six weeks.  I am hard on clothing because of the type of work I do and the environment I do them in, but six weeks was very disappointing for these boots.  Hence, I do not wear Danners anymore.  
 
@@ -42,7 +42,7 @@ The Lowa Trekker took a short time to break in and were easy to take care of.  I
 
 ![UnderArmour Valsetz RTS Tactical](/img/articles/March/ff4.jpg)
 
-##3. [UnderArmour Valsetz RTS Tactical:](https://www.underarmour.com/en-us/ua-valsetz-stealth/pid1250234-220)
+## 3. [UnderArmour Valsetz RTS Tactical:](https://www.underarmour.com/en-us/ua-valsetz-stealth/pid1250234-220)
 
 These boots are not my first choice in anything that I do, but not because they are a bad boot.  They just do not fit in with my lifestyle.  I received these boots before a 12 day Precision Shooting Course Series at the Whittington U, working in the mountainous Backcountry Training Area.  A normal day while I am instructing is up at 0450hrs, pick up students at 0600hrs, shoot in the backcountry until 1500-1600hrs (weather dependent,) reset the range for the next day and then workout.  Workouts range from run/rucks to flipping logs and tires.  Most of the time, I carry a change of clothes with me but train in the same footwear that I wear on the range.  
 
@@ -52,7 +52,7 @@ Finally, about 9 days into courses in the Backcountry, the boots started to come
 
 ![Red Wing Heritage Iron Rangers](/img/articles/March/ff5.jpg)
 
-##4. [Red Wing Heritage Iron Rangers:](http://www.redwingheritage.com/us/USD/product/footwear/6-inch-boots/6-amber-8111-08111;pgid=y.9oQI7RkfNSRpvKp1vtKKN10000c4kG0Q8B;sid=VFAIt3dHOBEItyG6Bd9Y02Prz2cRoOxwTUeTgG5Q)
+## 4. [Red Wing Heritage Iron Rangers:](http://www.redwingheritage.com/us/USD/product/footwear/6-inch-boots/6-amber-8111-08111;pgid=y.9oQI7RkfNSRpvKp1vtKKN10000c4kG0Q8B;sid=VFAIt3dHOBEItyG6Bd9Y02Prz2cRoOxwTUeTgG5Q)
 
 These are my latest purchase, as my Lowa’s needed resoling and a new rubber edging.  I started to look at boots differently after my run in with the Danner’s and the past 3 years with the Lowa Trekkers.  My issue boots were what I wore all of the time in the Army and they were very broke in and comfortable.  I took good care of them and would have continued to resole them because they fit like part of my foot.  This is the same concept in looking at the Iron Rangers.  
 
@@ -60,7 +60,7 @@ They came with a flat cork sole with a heel and I have not had that ever (I am n
  
 The Iron Rangers are a simple leather boot that is well constructed.  With good care, they should last a long time – and we will see if this is the case.  These boots have a Goodyear Welt and I will be resoling them as many times as necessary, probably with a lug sole next time too.
 
-##Conclusion
+## Conclusion
 
 Functionality is the core of our lives.  The items we purchase should fit our lifestyles and last.  There is no reason to have to buy a new pair of footwear for every season.  There is a concept called Planned Obsolescence that applies an artificial lifespan to a product during the manufacturing process.  Unfortunately, this is part of just about every article of clothing now, outside of the niche market or specific use items.  But if you do your research and take care of your investments, your footwear will take good care of you and last for years to come.
 
