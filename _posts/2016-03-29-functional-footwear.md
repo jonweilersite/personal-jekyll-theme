@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Gear: Functional Footwear
+title: Gear - Functional Footwear
 category: Survival Trial
 tags: [ 'Review, Equipment, Survival Trial' ]
 ---
